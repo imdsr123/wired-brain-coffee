@@ -19,6 +19,4 @@ jobs:
           name: Print the Current Time
           command: date
           
-       - run:
-           name: Greeting
-           command: echo Hello, world.
+       
